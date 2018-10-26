@@ -1,2 +1,2 @@
-# pessagedi
-Extension .psd
+# pedissage
+Extension .pds
